@@ -1,4 +1,4 @@
-# [Título del Repositorio]
+# Desafíos Avanzados de Algoritmos - Soluciones en Python
 
 ## Descripción General
 
@@ -6,16 +6,18 @@ Este repositorio contiene una serie de ejercicios resueltos en el contexto de la
 
 - **Backtracking**
   - `Carpeta_01`: Descripción breve del problema 1.
-  - `Carpeta_02`: Descripción breve del problema 2.
   
 - **Programación Dinámica**
+  - `Carpeta_02`: Descripción breve del problema 2.
   - `Carpeta_03`: Descripción breve del problema 3.
-  - `Carpeta_04`: Descripción breve del problema 4.
   
 - **Divide and Conquer**
   - `Carpeta_05`: Descripción breve del problema 5.
+
+- **Greddy**
   - `Carpeta_06`: Descripción breve del problema 6.
-  
+  - `Carpeta_07`: Descripción breve del problema 7.
+
 - **Problemas de Grafos**
   - `Carpeta_07`: Descripción breve del problema 7 (Recorrido de Grafos).
   - `Carpeta_08`: Descripción breve del problema 8 (Árbol Generador Mínimo).
