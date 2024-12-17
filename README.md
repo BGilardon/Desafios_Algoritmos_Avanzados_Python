@@ -31,7 +31,7 @@ Este repositorio contiene una serie de ejercicios resueltos en el contexto de la
   - `King`: Algoritmo para verificar si es posible construir una secuencia de enteros que cumpla con una serie de restricciones sobre la suma de ciertos subsecuencias. Dadas restricciones sobre si la suma de elementos en subsecuencias específicas debe ser mayor o menor que un valor dado, se desea determinar si existe una secuencia que satisfaga todas estas restricciones.
 
 - **Flujo**
-  - `Carpeta_11`: Algoritmo para determinar si es posible distribuir un número específico de camisetas entre los voluntarios de forma que cada uno reciba una camiseta que le quede bien. Hay seis tamaños de camisetas disponibles y cada voluntario tiene dos tamaños que le quedan bien. Se deben satisfacer todos los voluntarios, pero puede haber camisetas restantes si el número de camisetas no coincide con el número de voluntarios.
+  - `My T-shirt suits me`: Algoritmo para determinar si es posible distribuir un número específico de camisetas entre los voluntarios de forma que cada uno reciba una camiseta que le quede bien. Hay seis tamaños de camisetas disponibles y cada voluntario tiene dos tamaños que le quedan bien. Se deben satisfacer todos los voluntarios, pero puede haber camisetas restantes si el número de camisetas no coincide con el número de voluntarios.
 
 Todos los ejercicios están implementados en **Python 3**.
 
